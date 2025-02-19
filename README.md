@@ -6,13 +6,19 @@ Quinto repositório dos meus projetos em Java, sendo eles derivados de uma lista
 
 Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como mostrado no projeto ao lado. 
 
-OBS: Ao invés de escrever as variáveis, classes, entre outros em inglês, eu optei por escrever em português.
+![image](https://github.com/user-attachments/assets/da7d003f-9761-43e1-802d-5fbcc6728904)
+
+OBS: Ao invés de escrever as variáveis, classes, entre outros, em inglês, eu optei por escrever em português.
 
 ## Segundo exercício - Classe "Funcionário"
 
 Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostrar os dados do funcionário (nome e salário líquido). 
 
 Assim, aumentar o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use a classe projetada abaixo.
+
+![image](https://github.com/user-attachments/assets/736bdad2-5b63-496c-9aef-0d73862da2b9)
+
+OBS: Ao invés de escrever as variáveis, classes, entre outros, em inglês, eu optei por escrever em português.
 
 ## Terceiro exercício - Classe "Estudante"
 

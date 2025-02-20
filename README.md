@@ -26,3 +26,8 @@ Fazer um programa para ler o nome de um aluno e as três notas que ele obteve no
 
 Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está aprovado ou não e, em caso negativo, quantos pontos faltam para o aluno obter o mínimo para ser aprovado - 60% da nota. 
 
+## Quarto exercício - Classe "Conversão"
+
+Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por uma pessoa em reais. 
+
+Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. 
